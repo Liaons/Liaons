@@ -5,15 +5,14 @@
   
   My interests lie in the carbon balance, between emissions by degradation drivers and removals through vegetative regrowth, as well as in trying to better comprehend fire dynamics in Brazilian ecosystems.
   
-  Currently, I'm also a consultant in GIS and Data Science for remote sensing data to organizations like: CTrees (Pasadena, CA - USA), a non-profit corporation integrated with the University of California at Los Angeles (UCLA) and the California Institute of Technology of the Jet Propulsion Laboratory - NASA (JPL - NASA); and IPAM - Instituto de Pesquisa Ambiental da Amazônia, a scientific, non-governmental and non-profit organization.
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Python, JavaScript, R.**
+  🦄 Linguagens: Python, JavaScript, R.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Google Earth Engine, Adobe Creative Cloud, Google Colab.**
+  💼 Ferramentas: Google Earth Engine, Adobe Creative Cloud, Google Colab.
 </p>
 
 <p align="left">
